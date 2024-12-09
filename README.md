@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning ROS2, neural networks, Pentesting, C for IoT, cryptography
 - 💞️ I’m looking to collaborate on robotics and ai project
 
-![Fiedors's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true&langs_count=4" width="48%" />
+</div>
 
-![Fiedors's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true)
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiedorpw&theme=shadow_green&hide_rank=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
