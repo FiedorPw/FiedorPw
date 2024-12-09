@@ -2,7 +2,9 @@
 - 👀 I’m interested in Cybersecurity, fullstack development, startups and robotics
 - 🌱 I’m currently learning ROS2, neural networks, Pentesting, C for IoT, cryptography
 - 💞️ I’m looking to collaborate on robotics and ai project
+
 ![Fiedors's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true)
+
 ![Fiedors's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true)
 
 <!---
