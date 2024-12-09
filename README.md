@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true&langs_count=4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true&langs_count=4" width="30%" />
 </div>
 
 
