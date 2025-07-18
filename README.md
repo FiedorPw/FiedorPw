@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FiedorPw
-- 👀 I’m interested in Cybersecurity, fullstack development, startups and robotics
-- 🌱 I’m currently learning ROS2, neural networks architectures, Pentesting, C for IoT, cryptography
-- 💞️ I’m looking to collaborate on drones, AI and cybersecurity projects
+- 👀 I’m interested in AI agents, Cybersecurity, fullstack development, startups and robotics
+- 🌱 I’m currently learning LangGraph, GraphRAG, ROS2, Pentesting.
+- 💞️ I’m looking to collaborate on AI, drones and cybersecurity projects
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=fiedorpw&show_icons=true&theme=blue-green&hide_rank=true" width="40%" />
